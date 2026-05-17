@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-8-purple?logo=vite)
 ![ESLint](https://img.shields.io/badge/ESLint-Passed-success?logo=eslint)
-![License](https://img.shields.io/badge/License-Educational-orange)
 
 This project was created for **Front-End Frameworks – Assignment 2**.
 
