@@ -109,10 +109,9 @@ npm run build
 
 ## AI Usage Disclosure
 
+I used AI tools (OpenAI Codex and ChatGPT) for guidance in setting up the React and Vite project, debugging import and file path issues, and better understanding React concepts such as components, props, `useState()`, and `useEffect()`.
 
-I used AI tools, including ChatGPT and OpenAI Codex, as learning assistants to help me understand React and Vite concepts, troubleshoot coding issues, and improve the overall structure and styling of the project.
-
-The AI tools were used for guidance and explanations only. All code was reviewed, tested, and understood by me before submission.
+All code was reviewed, tested, and understood by me before submission.
 
 ---
 
