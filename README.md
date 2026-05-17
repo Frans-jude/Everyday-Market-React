@@ -27,7 +27,7 @@ The application rebuilds the Everyday Market App using **React** and **Vite**. I
 
 ## Application Screenshot
 
-![Everyday Market App Screenshot](screenshots/screenshot.png)
+![Everyday Market App Screenshot](screenshots/Screenshot.png)
 
 ##  Component Structure
 
